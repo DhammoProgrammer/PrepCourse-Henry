@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-My Firts Repository!
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde GitHub a la computadora.
